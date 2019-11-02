@@ -1,2 +1,3 @@
 # DeltacoSmartHome
-Hacking the Deltaco SmartHome devices
+Hacking the Deltaco SmartHome devices  
+Coming shortly...
