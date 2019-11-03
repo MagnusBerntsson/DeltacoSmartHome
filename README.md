@@ -1,3 +1,5 @@
 # DeltacoSmartHome
 Hacking the Deltaco SmartHome devices  
-Coming shortly...
+  
+  
+[https://www.magnus.tech/reflashing-deltaco-smarthome-sh-p01-with-tasmota/](https://www.magnus.tech/reflashing-deltaco-smarthome-sh-p01-with-tasmota/)
